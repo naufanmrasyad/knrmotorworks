@@ -1,0 +1,43 @@
+.jumbotron {
+	background: black;
+	background-size: cover;
+	height : 690px;
+	text-align: center;
+	margin-top: 0px;
+}
+.jumbotron .display-4 {
+	color: white;
+	margin-top: 150px;
+}
+.jumbotron .display-A {
+	color: white;
+	margin-top: 15px;
+}
+.jumbotron .display-B {
+	color: white;
+	margin-top: 15px;
+}
+.jumbotron .display-C {
+	color: white;
+	margin-top: 15px;
+}
+.jumbotron p {
+	color: white;
+	font-size: 25px;
+}
+.jumbotron hr {
+	border-color: #F05F50;
+	width: 70px;
+	border-width: 3px;
+}
+
+.carousel-item {
+	height: 670px;
+}
+.carousel-item img {
+	margin-top: -350px;
+}
+.container-login {
+	width: 60%;
+	margin-left: 20%
+}
